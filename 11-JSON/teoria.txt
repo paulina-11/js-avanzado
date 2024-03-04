@@ -1,0 +1,11 @@
+Se basa en propiedades y valores 
+se debe abrir y cerrar la llave
+Son contenedores de cosa
+Ejemplo:
+{
+    "propiedad":"valor",
+    "precio":12,
+    "estado":true,
+    "arreglo" :["pera","fresa"],
+    "perfil": [{"id":3,"url":"http://..."}]
+}

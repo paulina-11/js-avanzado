@@ -1,0 +1,5 @@
+DOM
+Document Object Model
+Representa la estructura de HTML y puede ser modificado por un lenguaje de programación.
+Conecta HTML con JS
+Encuentra cada una de las etiquetas para poder acceder a ellas y modificarlas para poder hacerlo dinamico.

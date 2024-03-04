@@ -1,9 +1,10 @@
-var resultado = "Capuchino";
+let resultado = "Capuchino";
 
 function cafetera(ingrediente1) {
   if (ingrediente1 == "leche") {
-    var resultado = 'otra cosa'
-    var resultado = 'otra cosa2'
+    // let vive dentro de bloques y no te deja declararlo varias veces
+    // let resultado = 'otra cosa'
+    let resultado = 'otra cosa2'
     return resultado;
   }
 }

@@ -1,0 +1,6 @@
+es una coleccion o una agrupacion de elementos en una misma variable, pueden ser de distintos tipos, pero deben de estar ordenados en forma de index, cada uno debe contar con su id para poderidentificarlos.
+Un array no tiene limite de elementos
+Deben de estar separado por comas
+ejemplo: 
+['index0','index1,'index2','index3']
+['juan','pedro','Rosa','Renata']
